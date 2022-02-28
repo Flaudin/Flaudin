@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **UI/UX Design**
 
-- 📫 How to reach me **facebook.com/shinjiro0811, linkedin.com/in/joshuasaito**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
