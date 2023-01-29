@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshua A.K.A Flaudin</h1>
 <h3 align="center">A Front-End Developer Freelancer based in Philippines</h3>
 
-- 🌱 I’m currently learning **UI/UX Design**
+- 🌱 I’m **UI/UX Designer**
 
 
 
